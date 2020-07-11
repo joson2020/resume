@@ -28,14 +28,14 @@ public class SimpleInfo {
 
 
 ### 工作经验
-![](./asset/水滴公司logo-mini.png)
-```java [2]
-2018年9月-6月 水滴公司 | 后端研发实习生
-2019年7月至今 水滴公司 | 效能平台后端工程师
-```
+
+
+- 2018年9月-6月 水滴公司 | 后端研发实习生
+- 2019年7月至今 水滴公司 | 效能平台后端工程师
+
 
 #### 项目经验-OKR工具
-```
+
 项目时间：2020-03 至 2020-05
 项目名称：OKR工具
 项目描述：制定OKR的小工具,提供给公司内部员工使用.
@@ -49,10 +49,9 @@ public class SimpleInfo {
 我的职责：独自负责该项目的所有后端设计与实现
 项目技术：
 Spring Boot,Vault,MongoDB,AOP,企业微信
-```
 
 #### 项目经验-项目管理系统
-```
+
 项目时间：2020-02 至 2020-06
 项目名称：WADAP项目管理平台
 项目描述：公司自研项目管理平台,支持开发小组业务线设置、需求管理、bug管理、迭代管理、流程管理、看板、报表管理等功能.
@@ -66,11 +65,10 @@ Spring Boot,Vault,MongoDB,AOP,企业微信
 7. 每个人的排期更新可以通过企业微信发送相关通知信息.
 项目技术：
 Spring Boot,Spring Cloud,MongoDB,AOP,VUE,企业微信
-```
 
 
 #### 项目经验-IT&HR技术支持
-```
+
 项目时间：2019-08 至今
 项目名称：HR&IT部门技术支持
 项目描述：主要为公司多个内部系统之间提供技术服务支持
@@ -84,10 +82,10 @@ Spring Boot,Spring Cloud,MongoDB,AOP,VUE,企业微信
 7. 保证服务的稳定、高效、可扩展性,多次重构优化代码,单次任务时间由几十分钟缩短到几分钟.
 项目技术：
 Spring Boot,MongoDB,AD,LDAP,AOP,Feign,ScheduleTask,企业微信,HRIS,嵌入式闸机系统
-```
+
 
 #### 项目经验-流量系统
-```
+
 项目时间：2019-04 至今
 项目名称：流量系统管理
 项目描述：基于ISTIO的自研流量管理系统,可以实现不同策略的流量控制效果
@@ -103,10 +101,10 @@ Spring Boot,MongoDB,AD,LDAP,AOP,Feign,ScheduleTask,企业微信,HRIS,嵌入式�
 9. 流量的可视化多泳道,拓扑图展示.
 项目技术：
 Spring Boot,MongoDB,Istio,Kubernetes,ScheduleTask,Vue
-```
+
 
 #### 项目经验-CI/CD自研平台
-```
+
 项目时间：2018-09 至今
 项目名称：内部自研效能平台Nintendo
 项目描述：公司内部自研效能平台,支持持续集成、持续部署、多环境部署、灾备部署、回归、服务销毁、自动化代码测试等功能
@@ -122,7 +120,7 @@ Spring Boot,MongoDB,Istio,Kubernetes,ScheduleTask,Vue
 9. 平台打通企业微信,部署任务的环境、版本、commit、备注等信息能够在任务结束的时候发送给相关人员.
 项目技术：
 Spring Boot,Kubernetes,Jenkins,Redis,MongoDB,Istio,ScheduleTask,Vue,Gitlab,LDAP,AD,企业微信
-```
+
 
 ### 致谢
 感谢您花时间阅读我的简历
