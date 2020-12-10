@@ -156,6 +156,10 @@ public class SimpleInfo {
 
 - 项目技术：Spring Boot,Kubernetes,Jenkins,Redis,MongoDB,Istio,ScheduleTask,Vue,Gitlab,LDAP,AD,企业微信
 
+### 其他方面
+- 欲讷于言敏于行,少说多做
+- 好记性不如烂笔头,工作两年来每天做的事情,遇到的困难,解决困难的方式,都有记录下来
+- 善于倾听，但是也会在日常工作中通过正确的方式表达出自己的想法
 
 ### 致谢
 感谢您花时间阅读我的简历
